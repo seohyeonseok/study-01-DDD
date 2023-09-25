@@ -1,6 +1,8 @@
 <!-- Page Haeder : Title -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=E5D4EF&height=200&section=header&fontSize=70&fontColor=6b6075&fontAlignY=30&text=Domain&nbsp;Driven&nbsp;Develop&desc=%22도메인&nbsp;주도&nbsp;설계&nbsp;첫걸음%22&nbsp;요약&nbsp;정리&descAlign=77&descAlignY=55)
+<img >
 <p align='center'>
+    <img src="https://github.com/seohyeonseok/study-01-DDD/assets/22653435/8ebad76f-d4be-4533-8bdb-9ace22798831">
     "도메인 주도 설계 첫걸음" - 블라드 코노노프
 </p>
 
